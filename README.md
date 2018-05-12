@@ -1,3 +1,3 @@
 # TapToDo
 Recoded TapToDo for PMMP servers
-##Follow https://github.com/Pocketmine-PHP
+#More plugins on https://github.com/Pocketmine-PHP
